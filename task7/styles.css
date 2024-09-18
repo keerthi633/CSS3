@@ -1,0 +1,60 @@
+.c1,.c2{
+    display:flex;
+    color:white;
+    justify-content:space-between;
+    
+   
+}
+.c1, a{
+    margin-right:30px;
+    color: white;
+}
+body{
+    height:100%;
+    width:100%;
+}
+header{
+    background-image:url("https://thumbs.dreamstime.com/b/happy-travel-woman-vacation-concept-funny-traveler-enjoy-her-trip-ready-to-adventure-happy-travel-woman-vacation-concept-118679424.jpg");
+    background-repeat:no-repeat;
+    height:900px;
+    width:100%;
+    background-size: cover;
+    
+}
+.container1{
+    display:flex;
+    justify-content:space-evenly;
+    margin-left:30px;
+    
+}
+.c3{
+    border:2px solid blue;
+    
+    flex-direction: column;
+    padding:50px 150px;
+   
+
+}
+.c4{
+    border:2px solid blue;
+    
+    flex-direction: column;
+    padding:50px 150px;
+}
+.c5{
+    border:2px solid blue;
+    
+    flex-direction: column;
+    padding:50px 150px;
+    
+    
+    
+}
+.container2{
+    background-color:blue;
+    color:white;
+    height:300px;
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+}
